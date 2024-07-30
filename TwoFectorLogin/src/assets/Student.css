@@ -1,0 +1,44 @@
+/* src/css/styles.css */
+
+.student-dashboard-container {
+    background: linear-gradient(rgba(255,255,255,0.8), rgba(255,255,255,0.8)), url("/path/to/your/background-image.jpg");
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    overflow: hidden;
+  }
+  
+  .dashboard-box {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .question-text {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  .slider-container {
+    margin-top: 20px;
+  }
+  
+  .button-group {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .submit-button {
+    margin-top: 20px;
+  }
+  
+  .congrats-message {
+    margin-top: 20px;
+    text-align: center;
+  }
+  

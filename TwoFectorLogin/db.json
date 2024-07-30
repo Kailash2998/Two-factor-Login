@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "student@example.com",
+      "password": "password123",
+      "role": "student",
+      "code": "4273",
+      "answers": {
+        "2": 4,
+        "3": 5,
+        "5": 0,
+        "6": 3,
+        "7": 1,
+        "9": 2
+      }
+    },
+    {
+      "id": "2",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "admin@gmail.com",
+      "password": "Adminpass1$",
+      "role": "admin",
+      "code": "9550",
+      "answers": []
+    },
+    {
+      "id": "aea5",
+      "firstName": "Ramesh",
+      "lastName": "Ramesh",
+      "email": "r@gmail.com",
+      "password": "Ramesh123$",
+      "role": "student",
+      "code": "7658",
+      "answers": {
+        "1": 2,
+        "2": 1,
+        "4": 4,
+        "6": 3,
+        "9": 2
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "text": "How do you rate our service?"
+    },
+    {
+      "id": "2",
+      "text": "How likely are you to recommend us?"
+    },
+    {
+      "id": "3",
+      "text": "How satisfied are you with our product?"
+    },
+    {
+      "id": "4",
+      "text": "How do you rate the quality of our support?"
+    },
+    {
+      "id": "5",
+      "text": "How do you rate the value for money of our product?"
+    },
+    {
+      "id": "6",
+      "text": "How do you rate our website usability?"
+    },
+    {
+      "id": "7",
+      "text": "How satisfied are you with the delivery time?"
+    },
+    {
+      "id": "8",
+      "text": "How satisfied are you with the packaging?"
+    },
+    {
+      "id": "9",
+      "text": "How likely are you to buy from us again?"
+    },
+    {
+      "id": "10",
+      "text": "How do you rate our customer service?"
+    }
+  ]
+}
